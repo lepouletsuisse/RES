@@ -1,0 +1,9 @@
+#Data to send informations
+HELO = localhost
+Mail from = exemple@amailserver.com
+Emails filename = contact.txt
+Messages filename = messages.txt
+
+#Telnet connection to server informations
+Address = localhost
+Port = 25
