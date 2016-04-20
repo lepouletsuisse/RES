@@ -217,4 +217,5 @@ pip-log.txt
 .idea/
 *.bin
 *.xml
+out/
 ASD2/Labo3/Sources/largeEWD.txt
